@@ -30,14 +30,14 @@
   <br>
 
 **Live Link**
-https://maneet79.github.io/Crystal-Collector/.
+https://maneetbhatia.github.io/Crystal-Collector/
 <br>
 
 **Author**
 
-https://github.com/Maneet79
+https://github.com/maneetbhatia
 <br><br>
 
 **License**
 
-This project is licensed under the MIT License - see the https://github.com/Maneet79 file for details
+This project is licensed under the MIT License - see the https://github.com/maneetbhatia file for details
